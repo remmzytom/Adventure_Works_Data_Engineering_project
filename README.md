@@ -6,30 +6,30 @@
 - ### 1. Introduction
 - Overview of the Project
 - Objectives and Goals
-## 2. Data Architecture & Setup
+### 2. Data Architecture & Setup
 - Data Architecture Design
 
-## 3. Data Ingestion & Storage
+### 3. Data Ingestion & Storage
 - Data Understanding (API Integration)
 - Data Ingestion (Bronze Layer) – Azure Data Factory
 - Storing Raw Data in Azure Data Lake Gen2
-## 4. ETL Pipelines & Data Processing
+### 4. ETL Pipelines & Data Processing
 - Azure Data Factory Overview
 - Azure Data Lake Gen2 Storage Management
 - Building ETL Pipelines with Azure Data Factory
 - Real-Time Data Processing with Azure Data Factory
-## 5. Big Data Processing with Azure Databricks
+### 5. Big Data Processing with Azure Databricks
 - Azure Databricks Resource Setup
 - Databricks Cluster Configuration & Overview
 - Apache Spark (Silver Layer) – Data Cleansing & Processing
 - PySpark Tutorial – Implementing Data Transformations
 - Big Data Analytics with PySpark
-## 6. Data Warehousing & Querying
+### 6. Data Warehousing & Querying
 - Azure Synapse Analytics (Gold Layer) – Optimized Data Storage
-## 7. Business Intelligence & Reporting
+### 7. Business Intelligence & Reporting
 - Integrating Azure Synapse Analytics with Power BI
 - Building Interactive Dashboards
-## 8. Conclusion
+### 8. Conclusion
 Key Achievements & Learnings
 
 
