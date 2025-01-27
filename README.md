@@ -8,6 +8,8 @@ In this project, I designed and implemented a cloud-based data engineering pipel
 
 The pipeline leverages Azure Data Factory (ADF), Azure Data Lake Gen2, Azure Databricks (Apache Spark), and Azure Synapse Analytics to handle large-scale data processing and analytics. The final data is visualized using Power BI.
 
+![](images/ach.png)
+
 <br><br>
 
 ### Data Architecture 
@@ -55,6 +57,8 @@ Apache Spark (Silver Layer) : Used Apache Spark for cleansing and enriching data
 
 ### Data Visualization & Reporting
 - Integrate Data Warehouse with Power BI : After I had processed and transformed the data, my next step was to connect Azure Synapse Analytics with Power BI to create interactive dashboards and reports. This integration was crucial in turning raw data into meaningful insights that could be easily understood and used for decision-making. To establish the connection, I linked Power BI with Azure Synapse Analytics, allowing me to access the data directly. I used two approaches for this: DirectQuery and Import Mode. DirectQuery allowed Power BI to fetch the latest data from Synapse in real-time, ensuring the reports were always up to date. After the connection was in place, I structured the data within Power BI to improve its usability.
+
+![](images/dash.png)
   
 
 
