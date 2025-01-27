@@ -2,6 +2,39 @@
 
 <br><br>
 
+## Table of Contents
+- ### 1. Introduction
+- Overview of the Project
+- Objectives and Goals
+## 2. Data Architecture & Setup
+- Data Architecture Design
+
+## 3. Data Ingestion & Storage
+- Data Understanding (API Integration)
+- Data Ingestion (Bronze Layer) – Azure Data Factory
+- Storing Raw Data in Azure Data Lake Gen2
+## 4. ETL Pipelines & Data Processing
+- Azure Data Factory Overview
+- Azure Data Lake Gen2 Storage Management
+- Building ETL Pipelines with Azure Data Factory
+- Real-Time Data Processing with Azure Data Factory
+## 5. Big Data Processing with Azure Databricks
+- Azure Databricks Resource Setup
+- Databricks Cluster Configuration & Overview
+- Apache Spark (Silver Layer) – Data Cleansing & Processing
+- PySpark Tutorial – Implementing Data Transformations
+- Big Data Analytics with PySpark
+## 6. Data Warehousing & Querying
+- Azure Synapse Analytics (Gold Layer) – Optimized Data Storage
+## 7. Business Intelligence & Reporting
+- Integrating Azure Synapse Analytics with Power BI
+- Building Interactive Dashboards
+## 8. Conclusion
+Key Achievements & Learnings
+
+
+<br><br>
+
 ## Azure Data Engineering & Big Data Analytics Pipeline
 ### Project Overview
 In this project, I designed and implemented a cloud-based data engineering pipeline using Microsoft Azure. The solution follows the Medallion Architecture (Bronze, Silver, Gold layers) to efficiently ingest, process, transform, and analyze structured and unstructured data.
